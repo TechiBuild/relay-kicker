@@ -1,5 +1,5 @@
 # relay-kicker
-Keep IoT button type devices alive via a relay and pi
+Keep IoT button type devices alive via a relay and a pi
 
 # About
 When testing IoT devices, we can come across devices that require a button to be pressed to activate the device. 
